@@ -1,11 +1,12 @@
 # A simple way to display an image from an url in your terminal
 
-## Interactive
+## Ways
+### Interactive
 ```
 terminal-image
 ```
 
-## Non interactive
+### Non interactive
 ```
 terminal-image --url 'https://github.com/CodecNomad/terminal-image/blob/main/showcase.png?raw=true'
 ```
