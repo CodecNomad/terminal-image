@@ -7,7 +7,7 @@ terminal-image
 
 ## Non interactive
 ```
-terminal-image --url 'https://github.com/CodecNomad/terminal-image/blob/main/showcase.png'
+terminal-image --url 'https://github.com/CodecNomad/terminal-image/blob/main/showcase.png?raw=true'
 ```
 
 ![showcase](https://github.com/CodecNomad/terminal-image/blob/main/showcase.png)
