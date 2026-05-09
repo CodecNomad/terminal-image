@@ -1,6 +1,6 @@
 # A simple way to display an image from an url in your terminal
 
-## Ways
+## Ways to use
 ### Interactive
 ```
 terminal-image
